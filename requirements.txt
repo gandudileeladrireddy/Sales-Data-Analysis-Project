@@ -1,0 +1,5 @@
+# Pre Required Libraries
+* pandas
+* numpy
+* seaborn
+* matplotlib
